@@ -1,2 +1,2 @@
 # dbt_workshop
-# HAVE A NICE DAY
+# HAVE A NICE DAY!!!
