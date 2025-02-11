@@ -16,4 +16,5 @@ dbtworkshop:
       port: 5050
       dbname: '{{ env_var("DBT_DATABASE") }}'
       schema: ci
+
   target: dev
