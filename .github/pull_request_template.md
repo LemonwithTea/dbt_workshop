@@ -6,6 +6,8 @@
   > Ticket, Slack conversations, Doc
 
 
+
+
 # Testing
 
   > Adding dbt run, test, SQL queries
@@ -15,7 +17,7 @@
 
   > Anything to do before merge?
 
-  
+
 
 ---
 
