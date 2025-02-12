@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: stripe
-    database: postgres
+    database: '{{ env_var("DBT_DATABASE") }}'
     schema: stripe
     tables:
       - name: payment
