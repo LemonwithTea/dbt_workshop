@@ -22,3 +22,5 @@ export DBT_PASSWORD=<bullshit>
 export DBT_DATABASE=<bullshit>
 ```
 ### That's all, you can run dbt models.
+
+> HELP ME PLEASE
